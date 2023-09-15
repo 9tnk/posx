@@ -68,7 +68,7 @@
 <div class="test">
     <!-- Loading Screen -->
     <div id="loader-wrapper">
-        <h1 class="loader-logo">P O S <span class="colored">X</span></h1>
+        <h1 class="loader-logo"><img style="height: 25px;" class="img-fluid" src="images/logo.png" alt="site logo"></h1>
         <div id="progress"></div>
         <h3 class="loader-text">LOADING</h3>
     </div>
@@ -78,7 +78,7 @@
         <nav class="navbar fixed-top navbar-expand-lg navbar-dark">
             <div class="container">
                 <!-- Site Logo -->
-                <a id="logo" class="navbar-brand" href="#"><img style="height: 25px;" class="img-fluid" src="images/logo.png" alt="site logo"></a>
+                <!-- <a id="logo" class="navbar-brand" href="#"><img style="height: 25px;" class="img-fluid" src="images/logo.png" alt="site logo"></a> -->
                 <!-- Dropdown Button -->
                 <button id="hamburger" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="icon-bar"></span>
@@ -111,7 +111,7 @@
         <div class="row hero-unit">
             <div class="container">
                 <div class="hero-caption"><!-- Main Tagline -->
-                    <h1>P O S <span class="colored">X</span></h1>
+                    <h1><img style="height: 25px;" class="img-fluid" src="images/logo.png" alt="site logo"></h1>
                     <hr>
                     ผู้ช่วยร้านอาหาร Online
                 </div>
